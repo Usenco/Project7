@@ -1,0 +1,2 @@
+325:Example:Client:01/04/2010:500:MoreExercisesAtHome:100:{277,}:{249,}:
+330:DemonstretionClient:DemoClientSurname:01/01/2000:100:empty:0:{300,}:{327,}:
