@@ -257,11 +257,12 @@ namespace fitnessapp {
 				}
 			}
 			if (tmp_id == client) {
-				break;
+				continue;
 			}
 			else
 			{
 				file_string += str;
+				file_string += '\n';
 			}
 		}
 
