@@ -269,7 +269,7 @@ namespace fitnessapp {
 
 		std::ofstream ofile(NameOfFile, std::ios_base::trunc);
 
-		ofile << file_string;
+		ofile << file_string << std::endl;
 
 		ofile.close();
 	}
