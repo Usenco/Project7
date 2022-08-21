@@ -1,2 +1,5 @@
 256:Example:Trainer:01/04/2004:1:1500:PerfectFitnessTrainer:{325,}:
 277:Example:Trainer:01/04/1990:3:1500:FitnessTrainer:{325,}:
+329:demo:demo:demo:3:30.000000:fitt:{12,}:
+
+368:demo2:demo2:demo2:3:300.000000:demo2:{2,}:
